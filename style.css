@@ -40,7 +40,7 @@ header{
 .logo{ display:flex; align-items:center; gap:.5rem; cursor:pointer; }
 
 .logo h1{ font-size:1.6rem; color:var(--accent-color); font-weight:600; letter-spacing:.3px; }
-.logo img{ width:60px; height:auto; }
+.logo img{ width:80px; height:auto; }
 .search-container{
   width:100%; max-width:520px; margin:0;
   display:flex; align-items:center; gap:.5rem;
